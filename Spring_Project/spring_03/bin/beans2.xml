@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="helloF" abstract="true">
+		<property name="message1" value="====== F message1 abstract======="></property>
+		<property name="message2" value="======F message2 abstract======="></property>
+	</bean>
+
+    <bean id="helloC" class="com.aug.jma.spring.HelloWorldC" parent="helloF">
+        <property name="message1" value="======C message1======="></property>
+        <property name="message3" value="======C message1======="></property>
+    </bean>
+</beans>

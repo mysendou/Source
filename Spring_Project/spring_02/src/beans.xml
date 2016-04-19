@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="hello"
+		class="com.aug.jma.spring.HelloWorld" scope="singleton"
+		init-method="init"
+		destroy-method="destroy">
+		<property name="message" value="Hello Dillon!"></property>
+	</bean>
+	
+	<bean class="com.aug.jma.spring.InitHelloWorld">
+	</bean>
+
+	<!-- <bean id="textEditor" class="com.aug.jma.spring.TextEditor">
+      <constructor-arg ref="spellChecker"/>
+   </bean>
+   <bean id="spellChecker" class="com.aug.jma.spring.SpellChecker"></bean> -->
+</beans>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="textEditor" class="com.aug.jma.TextEditor">
+        <constructor-arg ref="spellChecker"/>
+    </bean>
+    <bean id="spellChecker" class="com.aug.jma.SpellChecker">
+    </bean>
+    <bean id="demo1" class="com.aug.jma.Demo1">
+        <constructor-arg index="0" value="dillon"/>
+        <constructor-arg index="1" value="18"/>
+    </bean>
+</beans>

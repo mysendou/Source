@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!-- 	<bean id="hello"
+		class="com.aug.jma.spring.HelloWorld" scope="singleton"
+		init-method="init"
+		destroy-method="destroy">
+		<property name="message" value="Hello Dillon!"></property>
+	</bean> -->
+	<bean id="hello2" class="com.aug.jma.spring.HelloWorld" scope="prototype">
+	</bean>
+</beans>
