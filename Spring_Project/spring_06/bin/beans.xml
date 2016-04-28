@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="javaCollection" class="com.aug.jma.JavaCollection">
+		<property name="addressList">
+			<list>
+				<value>Shanghai</value>
+				<value>beijing</value>
+				<value>guangzhou</value>
+				<value>guangzhou</value>
+			</list>
+		</property>
+		<property name="addressSet">
+			<set>
+				<value>Shanghai</value>
+				<value>beijing</value>
+				<value>guangzhou</value>
+				<value>guangzhou</value>
+			</set>
+		</property>
+		<property name="addressMap">
+		  <map>
+		      <entry key="1" value="Shanghai"/>
+		      <entry key="2" value="beijing"/>
+		      <entry key="3" value="guangzhou"/>
+		      <entry key="2" value="guangzhou"/>
+		      
+		  </map>
+		</property>
+		<property name="addressProperties">
+		  <props>
+		      <prop key ="one">Shanghai</prop>
+		      <prop key ="two">beijing</prop>
+		      <prop key ="three">guangzhou</prop>
+		      <prop key ="four">guangzhou</prop>
+		  </props>
+		</property>
+	</bean>
+</beans>

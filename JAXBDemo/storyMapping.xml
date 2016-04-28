@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-bindings xmlns="http://www.eclipse.org/eclipselink/xsds/persistence/oxm">
+   <java-types>
+      <java-type name="com.aug.jeff.dto.Story">
+         <java-attributes>
+            <xml-element java-attribute="body" cdata="true"/>
+         </java-attributes>
+      </java-type>
+   </java-types>
+</xml-bindings>
