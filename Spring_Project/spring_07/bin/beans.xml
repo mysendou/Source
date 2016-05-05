@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="textEditor" class="com.aug.jma.domain.TextEditor" autowire="">
+        <!-- <property name="spellchecker" ref="spellchecker"></property> -->
+        <property name="name" value="Jeff Test Spellchecker Name"></property>
+    </bean>
+    <bean id="spellchecker" class="com.aug.jma.domain.SpellChecker"></bean>
+</beans>
