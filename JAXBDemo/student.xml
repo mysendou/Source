@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student id="12">
+   <role>
+      <desc>管理</desc>
+      <name>班长</name>
+   </role>
+   <name>test</name>
+</student>

@@ -30,7 +30,7 @@ public class JAXBXMLHandler {
         return story;
     }
     
-    public static void marshal(Story story, Class[] classes,  Map<String, Map<String, StreamSource>> properties, File selectedFile){
+    public static void marshal(Object o, Class[] classes,  Map<String, Map<String, StreamSource>> properties, File selectedFile){
         JAXBContext jc;
         BufferedWriter writer = null;
         try {
@@ -38,7 +38,7 @@ public class JAXBXMLHandler {
             jc = JAXBContext.newInstance(classes, properties);
             Marshaller marshaller = jc.createMarshaller();
             marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
-            marshaller.marshal(story, writer);
+            marshaller.marshal(o, writer);
         } catch (Exception e) {
             e.printStackTrace();
         }finally{
