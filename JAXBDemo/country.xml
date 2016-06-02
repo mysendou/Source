@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country name="中国">
+   <provinces>
+      <name>江苏省</name>
+      <provCity>南京市</provCity>
+   </provinces>
+   <provinces>
+      <name>浙江省</name>
+      <provCity>杭州市</provCity>
+   </provinces>
+</country>

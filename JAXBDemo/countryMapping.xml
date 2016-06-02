@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-bindings xmlns="http://www.eclipse.org/eclipselink/xsds/persistence/oxm">
+   <java-types>
+      <java-type name="com.aug.jeff.dto.domain.Country">
+            <xml-root-element name="country" />
+            <xml-type prop-order="name provinces"/>
+            <java-attributes>
+                <xml-element java-attribute="name" xml-path="@name"/>
+                <xml-element java-attribute="provinces" name="provinces" type="com.aug.jeff.dto.domain.Province" container-type="java.util.ArrayList"/>
+            </java-attributes>
+      </java-type>
+            <java-type name="com.aug.jeff.dto.domain.Province">
+            <xml-root-element name="Province" />
+            <java-attributes>
+                <xml-element java-attribute="name" xml-path="name/text()"/>
+                <xml-element java-attribute="desc" xml-path="provCity/text()"/>
+            </java-attributes>
+      </java-type>
+   </java-types>
+</xml-bindings>
