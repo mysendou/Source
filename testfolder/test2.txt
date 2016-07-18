@@ -5,3 +5,5 @@ test add and status
 test commit -a
 
 test reset HEAD <fileName>
+
+test tag command
