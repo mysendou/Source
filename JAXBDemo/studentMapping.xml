@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-bindings xmlns="http://www.eclipse.org/eclipselink/xsds/persistence/oxm">
+   <java-types>
+      <java-type name="com.aug.jeff.dto.domain.Student">
+            <xml-root-element name="student" />
+            <xml-type prop-order="id role name"/>
+            <java-attributes>
+                <xml-element java-attribute="id" xml-path="@id"/>
+                <xml-element java-attribute="role" name="role" type="com.aug.jeff.dto.domain.Role"/>
+            </java-attributes>
+      </java-type>
+            <java-type name="com.aug.jeff.dto.domain.Role">
+            <xml-root-element name="role" />
+            <java-attributes>
+                <xml-element java-attribute="name" xml-path="name/text()"/>
+                <xml-element java-attribute="desc" xml-path="desc/text()"/>
+            </java-attributes>
+      </java-type>
+   </java-types>
+</xml-bindings>

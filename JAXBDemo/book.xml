@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+   <author>James</author>
+   <price>23.45</price>
+   <bookId bookId="100"/>
+</book>

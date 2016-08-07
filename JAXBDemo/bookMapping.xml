@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-bindings xmlns="http://www.eclipse.org/eclipselink/xsds/persistence/oxm">
+	<java-types>
+		<java-type name="com.aug.jeff.dto.domain.Book" xml-accessor-type="NONE">
+			<xml-root-element name="book" />
+			<java-attributes>
+				<xml-element java-attribute="id" xml-path="bookId/@bookId"/>
+				<xml-element java-attribute="author" xml-path="author/text()"/>
+				<xml-element java-attribute="price" xml-path="price/text()"/>
+			</java-attributes>
+		</java-type>
+	</java-types>
+</xml-bindings>
