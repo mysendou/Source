@@ -7,3 +7,5 @@ test commit -a
 test reset HEAD <fileName>
 
 test tag command
+
+hotfix
