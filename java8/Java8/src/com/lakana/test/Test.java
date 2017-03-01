@@ -29,11 +29,18 @@ public class Test {
         apples.add(apple6);
 
         int weight = 200;
+        List<Apple> filterApples2 = AppleUtil.filterAppleByAppleFilter(apples, new AppleFilter() {
+            @Override
+            public boolean accept (Apple apple) {
+                return Color.RED.equals(apple.getColor()) && apple.getWeight() > weight;
+            }
+        });
+        System.out.println(filterApples2);
+
+        System.out.println("=================== Using Lambda ================");
         //Use lambda.
         List<Apple> filterApples = AppleUtil.filterAppleByAppleFilter(apples,
-                apple -> {
-                    return Color.RED.equals(apple.getColor()) && apple.getWeight() > weight;
-                });
+                apple -> Color.RED.equals(apple.getColor()) && apple.getWeight() > weight);
         System.out.println(filterApples);
 
     }
