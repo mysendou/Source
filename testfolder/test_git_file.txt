@@ -1,1 +1,3 @@
 test git file.
+git commit --amend
+git commit --amend
