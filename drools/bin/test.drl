@@ -1,0 +1,38 @@
+#created on: 2009-8-26
+package test
+import java.util.List;
+import com.jeff.drools.domain.*;
+import com.jeff.drools.enums.*;
+
+function showName(){
+    System.out.println("Execute show name method");
+}
+
+rule "rule1"
+when
+    GenericFeedRuleEnum(id == GenericFeedRuleEnum.RULE1.id)
+then
+    System.out.println("========rule1==========");
+    Customer cus=new Customer();
+    cus.setName("andrew db");
+    showName();
+    insert(cus);
+end
+
+rule "rule2"
+when
+    GenericFeedRuleEnum(id == GenericFeedRuleEnum.RULE2.id)
+    $customer:Customer();
+then
+    System.out.println("========rule2==========");
+    System.out.println("rule2----"+$customer.getName());
+end
+
+rule "jeff rule"
+
+when
+    GenericFeedRuleEnum(id == GenericFeedRuleEnum.JEFF_RULE.id)
+then
+    System.out.println("==========jeff rule==========");
+    System.out.println("jeff rule");
+end
