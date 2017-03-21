@@ -1,0 +1,24 @@
+package org.drools.examples
+  
+import com.jeff.drools.domain.Person
+import com.jeff.drools.test.RuleEngine
+global java.util.List list
+  
+ 
+rule "male"
+    dialect "mvel"
+    when
+        $p : Person( sex == "male" )
+    then
+        System.out.println("rule 'male' is running...")
+        $p.age = 60
+end
+ 
+rule "female"
+    dialect "mvel"
+    when
+        $p : Person( sex == "female" )
+    then
+        System.out.println("rule 'female' is running...")
+        $p.age = 55
+end
