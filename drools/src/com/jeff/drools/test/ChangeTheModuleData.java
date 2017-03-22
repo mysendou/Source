@@ -17,8 +17,8 @@ import com.jeff.drools.domain.Person;
 public class ChangeTheModuleData {
     public static void main(String[] args) {
         String ruleDrl = "t.drl";
-        Person dillon = new Person("dillon", "male");
-        Person ricky = new Person("ricky", "female");
+        Person dillon = new Person("dillon", "male", 20);
+        Person ricky = new Person("ricky", "female", 21);
 
         KnowledgeBuilder knowledgeBuilder = KnowledgeBuilderFactory.newKnowledgeBuilder();
         knowledgeBuilder.add(ResourceFactory.newClassPathResource(ruleDrl), ResourceType.DRL);

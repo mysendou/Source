@@ -37,12 +37,12 @@ public class StatefulKnowledgeSessionTest {
         GenericFeedRuleEnum rule2 = GenericFeedRuleEnum.RULE2;
 
         Customer customerrr = new Customer();
-        customerrr.setName("dillon db");
+        customerrr.setName("Dillon db");
         ArrayList<Object> facts = new ArrayList<Object>();
-//        facts.add(jeffEnum);
-//        facts.add(customerrr);
-//        facts.add(rule1);
-//        facts.add(rule2);
+        // facts.add(jeffEnum);
+        // facts.add(customerrr);
+        // facts.add(rule1);
+        // facts.add(rule2);
 
         Collection<KnowledgePackage> kpackageCollect = kBuilder.getKnowledgePackages();
         KnowledgeBase knowledgeBase = KnowledgeBaseFactory.newKnowledgeBase();
@@ -50,6 +50,7 @@ public class StatefulKnowledgeSessionTest {
         StatefulKnowledgeSession session = knowledgeBase.newStatefulKnowledgeSession();
         session.insert(rule2);
         session.insert(customerrr);
+        // session.insert(rule1);
         session.fireAllRules();
         session.dispose();
     }
