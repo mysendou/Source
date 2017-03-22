@@ -27,6 +27,29 @@ StatefulKnowledgeSession
     如果在规则当中需要有数据传出,那么可以通过在StatefulKnowledgeSession当中设置global对象来实现,一个global对象也是一个普通的Java对象,在向StatefulKnowledgeSession当中设置global对象时不用insert方法而用setGlobal方法实现.
 
 StatelessKnowledgeSession 
-    StatelessKnowledgeSession的作用与StatefulKnowledgeSession差不多,它们都是用来接收业务数据、执行规则的。
+   StatelessKnowledgeSession的作用与StatefulKnowledgeSession差不多,它们都是用来接收业务数据、执行规则的。
    实际上,StatelessKnowledgeSession对StatefulKnowledgeSession进行了包装,使得在使用StatelessKnowledgeSession对象时不需要再调用dispose()方法释放内存资源了在使用StatelessKnowledgeSession时不能进行重复插入fact的操作、也不能重复的调用fireAllRules()方法来执行所有的规则,
    对应这些要完成的工作在StatelessKnowledgeSession当中只有execute(…)方法，通过这个方法可以实现插入所有的fact并且可以同时执行所有的规则或规则流，事实上也就是在执行execute(…)方法的时候就在StatelessKnowledgeSession内部执行了insert()方法、fireAllRules()方法和dispose()方法。
+   
+fact 对象
+      在drools中我们可以传入一个普通的java对象,这个对象我们称作fact对象,这时候规则中保存的是该对象的引用因此在规则中我们可以任意的对其进行读写操作,
+      这个对象一般是包含set/get方法的POJO对象。当一个fact对象插入到workingMemory中,会立即的与所有的规则进行匹配。
+      StatefulKnowledgeSession提供了insert方法插入fact对象。StatelessKnowledgeSession可以使用CommandFactory进行插入。
+=============================================================================
+规则文件
+    规则文件是以drl结尾的文件，结构一般如下所示：
+    package package-name
+    imports
+    globals
+    functions
+    queries
+    rules
+    注意package必须在文件的第一行
+规则语言：
+    rule "name"
+        attributes
+        when 
+            LHS 如果没有的话默认为eval(true)，可以为多个条件
+        then 
+            RHS
+    end

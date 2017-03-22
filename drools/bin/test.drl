@@ -16,7 +16,7 @@ then
     Customer cus=new Customer();
     cus.setName("andrew db");
     showName();
-    insert(cus);
+    //insert(cus);
 end
 
 rule "rule2"
@@ -26,6 +26,10 @@ when
 then
     System.out.println("========rule2==========");
     System.out.println("rule2----"+$customer.getName());
+    Customer cus=new Customer();
+    cus.setName("andrew db");
+    showName();
+    //insert(cus);
 end
 
 rule "jeff rule"

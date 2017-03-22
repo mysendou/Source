@@ -1,0 +1,10 @@
+package test2
+import com.jeff.drools.domain.*;
+
+rule "rule1"
+    when
+        $person:Person(age>20 && sex=='male');
+    then
+        Person person = $person;
+        System.out.println(person);
+end
