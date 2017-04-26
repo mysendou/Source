@@ -1,0 +1,26 @@
+package com.aug.jeff.io;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+public class IOUtil {
+    /**
+     * 读取指定文件内容，按照16进制输出到控制台
+     * 并且每输出10个byte换行
+     * @param fileName
+     * 单字节读取不适合大文件，大文件效率很低
+     * @throws Exception 
+     */
+    public static void printHex(String file) throws Exception{
+        FileInputStream fis = new FileInputStream(file);
+        int b;
+        int i = 1;
+        while ((b=fis.read())!=-1) {
+            System.out.print(Integer.toHexString(b) + " ");
+            if(i++%10==0){
+                System.out.println();
+            }
+        }
+        fis.close();
+    }
+}
