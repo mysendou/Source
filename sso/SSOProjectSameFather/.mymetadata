@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SSOProjectSameFather"
+  id="myeclipse.1494336998387"
+  context-root="/SSOProjectSameFather"
+  j2ee-spec="5.0"
+  archive="SSOProjectSameFather.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
