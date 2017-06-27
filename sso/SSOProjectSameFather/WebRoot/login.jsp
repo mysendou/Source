@@ -23,7 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>
     <center>
         <h1>请登录</h1>
-        <form action="http://check.x.com/SSOProjectSameFather/sso/doLogin.action" method="post">
+        <form action="http://check.x.com:8080/sso/doLogin.action" method="post">
             <span>用户名：</span><input type="text" name="username"/>
             <span>密码：</span><input type="password" name="password"/>
             <input type="hidden" name="gotoUrl" value="${gotoUrl}"/>

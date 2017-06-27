@@ -23,14 +23,17 @@ public class Demo1Action extends ActionSupport {
         Cookie[] cookies = request.getCookies();
         if (cookies != null) {
             for (Cookie cookie : cookies) {
-                if (cookie.getName().equals("ssocookie")) {
+                if (cookie.getName().equals("ssoCookie")) {
                     String result = Demo1Util.doGet(
-                            "http://check.x.com/sso/checkCookie.action",
+                            "http://check.x.com:8080/sso/checkCookie.action",
                             cookie.getName(), cookie.getValue());
+                    if(result.equals("1")){
+                        return SUCCESS;
+                    }
                 }
             }
         }
-        gotoUrl = "http://check.x.com/demo1/main.action";
+        gotoUrl = "http://demo1.x.com:8080/demo1/main.action";
         return LOGIN;
     }
 }

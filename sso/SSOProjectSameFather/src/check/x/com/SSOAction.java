@@ -42,6 +42,22 @@ public class SSOAction extends ActionSupport {
         this.password = password;
     }
 
+    public String getCookieName() {
+        return cookieName;
+    }
+
+    public void setCookieName(String cookieName) {
+        this.cookieName = cookieName;
+    }
+
+    public String getCookieValue() {
+        return cookieValue;
+    }
+
+    public void setCookieValue(String cookieValue) {
+        this.cookieValue = cookieValue;
+    }
+
     public String doLogin() {
         boolean ok = SSOUtil.checkLogin(username, password);
         if (ok) {
@@ -56,10 +72,10 @@ public class SSOAction extends ActionSupport {
         return null;
     }
 
-    public void checkCookie(String cookieName, String cookieValue) throws IOException {
+    public void checkCookie() throws IOException {
         boolean ok = SSOUtil.checkCookie(cookieName, cookieValue);
         String result = "0";
-        if(ok){
+        if (ok) {
             result = "1";
         }
         HttpServletResponse response = ServletActionContext.getResponse();
