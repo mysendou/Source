@@ -3,6 +3,8 @@ package com.jeff.listener;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
+import com.jeff.datastore.DataStore;
+
 public class PeeperServletContextListener implements ServletContextListener {
 
     public static final DataStore DATA_STORE = new DataStore();
@@ -13,7 +15,6 @@ public class PeeperServletContextListener implements ServletContextListener {
           } catch (Exception e) {
               throw new RuntimeException("Cannot close datastore", e);
           }
-        }
     }
 
     @Override
