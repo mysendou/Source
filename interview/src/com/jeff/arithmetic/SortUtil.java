@@ -2,32 +2,34 @@ package com.jeff.arithmetic;
 
 public class SortUtil {
 
-    public static void straightInsertionSort(int[] arr) {
-        // ����ĳ���
-        int sortedLen = arr.length;
-        for (int i = 1; i < sortedLen; i++) {
-            if (arr[i] < arr[i - 1]) {
-                int tmp = arr[i - 1];
-                arr[0] = arr[i];
-                arr[i] = tmp;
-                int insertPos = 0;
-                for (int k = i - 1; k >= 0; k--) {
-                    if (arr[k] > arr[0]) {
-                        arr[k + 1] = arr[k];
-                    } else {
-                        insertPos = k + 1;
-                        break;
-                    }
+    /**
+     * 直接插入排序
+     * @param arr
+     */
+    public static void straightInsertionSort2(int[] arr) {
+        int i, j, k;
+        //从第二个元素开始
+        for (i = 1; i < arr.length; i++) {
+            //当前检查的元素arr[i]开始往前遍历
+            for (j = i - 1; j >= 0; j--) {
+                //当前的元素与它前面的元素比较，如果小于前面的某个元素，这时候就要进行插入操作了
+                if (arr[j] < arr[i]) {
+                    break;
                 }
-                arr[insertPos] = arr[0];
             }
-            System.out.print("��" + (i) + "������ ");
-           show(arr);
+            //记录住当前的元素
+            int temp = arr[i];
+            //依次将要前面的元素后移（截至到要插入的位置）
+            for (k = i - 1; k > j; k--) {
+                arr[k+1] =arr[k]; 
+            }
+            //将要当前元素放入指定的位置
+            arr[k+1] = temp;
         }
     }
 
     /**
-     * ð������
+     * 冒泡排序
      * 
      * @param arr
      */
@@ -39,7 +41,7 @@ public class SortUtil {
                     arr[j + 1] ^= arr[j];
                     arr[j] ^= arr[j + 1];
                 }
-                System.out.print("��" + (i + 1) + "������ ");
+                System.out.print("第" + (i + 1) + "次排序的结果：");
                 show(arr);
             }
         }
