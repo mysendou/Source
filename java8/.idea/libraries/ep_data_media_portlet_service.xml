@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-data-media-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/service/ep-data-media-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

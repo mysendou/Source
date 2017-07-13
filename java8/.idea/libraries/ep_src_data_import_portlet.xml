@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-data-import-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/src/ep-src-data-import-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

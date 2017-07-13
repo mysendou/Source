@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib46">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/tools/portlet_jsf_tmpl/docroot/WEB-INF/lib/icefaces-compat-2.0.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/tools/portlet_jsf_tmpl/docroot/WEB-INF/lib/alloyfaces-1.0.1.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/tools/portlet_jsf_tmpl/docroot/WEB-INF/lib/jboss-el-2.0.0.GA.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/tools/portlet_jsf_tmpl/docroot/WEB-INF/lib/jsf-api-2.1.1_b04.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/tools/portlet_jsf_tmpl/docroot/WEB-INF/lib/icefaces-2.0.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/tools/portlet_jsf_tmpl/docroot/WEB-INF/lib/liferayfaces-6.0.0.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/tools/portlet_jsf_tmpl/docroot/WEB-INF/lib/portletfaces-bridge-2.0.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/tools/portlet_jsf_tmpl/docroot/WEB-INF/lib/jsf-impl-2.1.1_b04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib67">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/spring-oxm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/spring-jms.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/spring-context-support.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/spring-context.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/spring-web.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/spring-web-servlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/xstream.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/spring-asm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/spring-core.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/spring-beans.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/social-portlet/WEB-INF/lib/xpp3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

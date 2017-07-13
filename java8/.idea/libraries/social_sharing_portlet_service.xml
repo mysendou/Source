@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="social-sharing-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/social-sharing-portlet/dist/latest/service/social-sharing-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

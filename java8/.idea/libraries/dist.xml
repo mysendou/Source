@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/lib/dist/ep-service-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/lib/dist/ep-service-docs.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/lib/dist/ep-service-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

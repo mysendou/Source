@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-wdt-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/wdt-portlet/dist/latest/src/ep-src-wdt-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

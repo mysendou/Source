@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-ep-paywall-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/dist/latest/src/ep-src-ep-paywall-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

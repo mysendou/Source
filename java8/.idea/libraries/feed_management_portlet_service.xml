@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feed-management-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/feed-management-portlet/dist/latest/service/feed-management-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

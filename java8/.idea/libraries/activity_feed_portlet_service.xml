@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="activity-feed-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/activity-feed-portlet/dist/latest/service/activity-feed-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

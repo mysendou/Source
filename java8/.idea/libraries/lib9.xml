@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/rest-service-portlet/test/lib/mockito-all-1.8.5.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/rest-service-portlet/test/lib/junit-4.9b2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-common-anvato-media-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/anvato-media-portlet/dist/latest/common/ep-common-anvato-media-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib13">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/lak-login-hook/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/lak-login-hook/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/lak-login-hook/WEB-INF/lib/log4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

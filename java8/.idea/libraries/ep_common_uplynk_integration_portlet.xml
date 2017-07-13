@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-common-uplynk-integration-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/uplynk-integration-portlet/dist/latest/common/ep-common-uplynk-integration-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

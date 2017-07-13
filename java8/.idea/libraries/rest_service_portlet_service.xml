@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rest-service-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/rest-service-portlet/dist/latest/service/rest-service-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

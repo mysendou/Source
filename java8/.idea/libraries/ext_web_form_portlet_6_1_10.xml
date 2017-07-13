@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ext-web-form-portlet-6.1.10">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/web-form-portlet/custom/WEB-INF/lib/ext-web-form-portlet-6.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

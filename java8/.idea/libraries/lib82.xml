@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib82">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/docroot/WEB-INF/lib/opencsv-2.3.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/docroot/WEB-INF/lib/jackson-annotations-2.7.3.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/docroot/WEB-INF/lib/import-model-1.9.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/docroot/WEB-INF/lib/gson.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/docroot/WEB-INF/lib/jackson-databind-2.7.3.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/docroot/WEB-INF/lib/jackson-core-2.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

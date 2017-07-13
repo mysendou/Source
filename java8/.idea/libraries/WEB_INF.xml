@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="WEB-INF">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/ROOT/WEB-INF/patching-backup.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/ROOT/WEB-INF/patching-backup-deps.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

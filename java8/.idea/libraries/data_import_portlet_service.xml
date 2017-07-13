@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="data-import-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/service/data-import-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

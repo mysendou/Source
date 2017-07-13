@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-nh-breakingnews-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/nh-breakingnews-portlet/dist/latest/src/ep-src-nh-breakingnews-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

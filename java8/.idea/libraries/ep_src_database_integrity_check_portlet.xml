@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-database-integrity-check-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/database-integrity-check-portlet/dist/latest/src/ep-src-database-integrity-check-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

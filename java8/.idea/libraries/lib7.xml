@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/rest-service-portlet/docroot/WEB-INF/lib/malcolm-0.0.13.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/rest-service-portlet/docroot/WEB-INF/lib/jaxb-impl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/rest-service-portlet/docroot/WEB-INF/lib/imagingservice-1.5.16.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/rest-service-portlet/docroot/WEB-INF/lib/ep-service-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/rest-service-portlet/docroot/WEB-INF/lib/imgscalr-lib-4.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/rest-service-portlet/docroot/WEB-INF/lib/ep-service-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="security-patches">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-13-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-5-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-16-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-19-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-upgrade-2-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-hotfix-2053-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-ntlm-1-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-8-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-18-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-7-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-15-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-workflow-1-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-plugin-deployment-1-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-core-2-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-10-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-2-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-documents-and-media-1-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-upgrade-4-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-core-1-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-3-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-upgrade-1-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-11-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-9-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-4-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-fix-pack-weather-1-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-12-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-1-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-17-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-6-6110.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/security-patches/liferay-security-hotfix-14-6110.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

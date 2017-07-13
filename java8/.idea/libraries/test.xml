@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/patches/plugins/lib/test/p6spy.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/plugins/lib/test/endplay-unit-test.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/plugins/lib/test/testng-6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

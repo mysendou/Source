@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="data-ext-article-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-ext-article-portlet/dist/latest/service/data-ext-article-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="common11">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/jtidy-r8.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-web-servlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-web-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/guava-12.0.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-web-struts.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/poi.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-aop.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/commons-codec.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-asm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/commons-beanutils.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-jms.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-oxm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-context-support.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-aspects.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/commons-httpclient.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/commons-pool.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-expression.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/endplay-hotdeploy-listener.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-orm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-core.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-web.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-jdbc.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/ep-common-ep-wcm-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-context.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-beans.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/jackson-all-1.8.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/spring-transaction.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/commons-io.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/common/commons-collections.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="root-lib-ext">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/ep-jgroups-jmx.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/velocity-tools.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/mime-util.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/liferay-rhino.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/ep-sitemap-patch.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/jackson-all-1.8.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/liferay-yuicompressor.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/ep-hibernate-3.6.4-patch.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/poi-contrib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/ep-replication-log.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/velocity.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/xstream.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/root-lib-ext/xpp3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

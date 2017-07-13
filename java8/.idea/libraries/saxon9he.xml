@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="saxon9he">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/doc/saxon9he.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

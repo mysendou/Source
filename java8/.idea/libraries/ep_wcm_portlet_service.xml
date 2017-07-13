@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-wcm-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-wcm-portlet/dist/latest/service/ep-wcm-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

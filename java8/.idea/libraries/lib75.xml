@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib75">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/frontend-action-portlet/docroot/WEB-INF/lib/jstl-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/frontend-action-portlet/docroot/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/frontend-action-portlet/docroot/WEB-INF/lib/jtds-1.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

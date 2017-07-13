@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="resources1">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-import-portlet/WEB-INF/test/resources/runbook_two_imports.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-import-portlet/WEB-INF/test/resources/runbook-withfile.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-import-portlet/WEB-INF/test/resources/epcore-imports-core-2.0.local.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

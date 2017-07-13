@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="lib63">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-email.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-jdbc.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/hibernate3.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-core.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-web-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-context.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-jms.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-pool.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-expression.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-context-support.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/cglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-collections.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-aspects.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-web.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-transaction.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/aspectj-rt.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-dbcp.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-asm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-fileupload.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/concurrent.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-configuration.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-web-servlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/aopalliance.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-aop.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/xstream.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/aspectj-weaver.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/jstl-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-io.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/jgroups.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-web-struts.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-orm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-math.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-digester.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-codec.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-discovery.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-beans.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/spring-oxm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-compress.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-validator.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-httpclient.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/commons-beanutils.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-media-portlet/WEB-INF/lib/xpp3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

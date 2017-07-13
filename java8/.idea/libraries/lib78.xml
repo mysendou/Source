@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib78">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/migrate-portlet/docroot/WEB-INF/lib/staxon-1.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/migrate-portlet/docroot/WEB-INF/lib/bonecp-0.7.1.RELEASE.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/migrate-portlet/docroot/WEB-INF/lib/commons-dbutils-1.5.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/migrate-portlet/docroot/WEB-INF/lib/eclipselink.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/migrate-portlet/docroot/WEB-INF/lib/slf4j-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/migrate-portlet/docroot/WEB-INF/lib/jtds-1.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

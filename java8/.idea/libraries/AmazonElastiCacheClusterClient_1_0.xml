@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AmazonElastiCacheClusterClient-1.0">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/patches/server/elasticache-root-lib/AmazonElastiCacheClusterClient-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

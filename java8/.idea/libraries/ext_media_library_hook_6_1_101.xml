@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ext-media-library-hook-6.1.101">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/media-library-hook/WEB-INF/custom/WEB-INF/lib/ext-media-library-hook-6.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

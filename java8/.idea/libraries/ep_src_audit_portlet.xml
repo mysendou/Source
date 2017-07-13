@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-audit-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/audit-portlet/dist/latest/src/ep-src-audit-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

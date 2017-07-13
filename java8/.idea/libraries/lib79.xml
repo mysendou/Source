@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib79">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/docroot/WEB-INF/lib/syncronex.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/docroot/WEB-INF/lib/ep-common-ep-paywall-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/docroot/WEB-INF/lib/ep-paywall-portlet-service.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/docroot/WEB-INF/lib/dummypaywall.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/docroot/WEB-INF/lib/nation-paywall.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/docroot/WEB-INF/lib/opencsv-2.3.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/docroot/WEB-INF/lib/endplay-util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

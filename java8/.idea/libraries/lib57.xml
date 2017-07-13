@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib57">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/apikey-setup-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/apikey-setup-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/apikey-setup-portlet/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/apikey-setup-portlet/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/apikey-setup-portlet/WEB-INF/lib/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/apikey-setup-portlet/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/apikey-setup-portlet/WEB-INF/lib/jackson-all-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

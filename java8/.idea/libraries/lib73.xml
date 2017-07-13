@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="lib73">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-oxm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-jdbc.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-orm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/mvc-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-core.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-web.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-transaction.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-beans.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-context.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-expression.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-web-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-aop.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-web-servlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/jackson-all-1.8.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-jms.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/jstl-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/xpp3.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/xstream.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-aspects.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-asm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/endplay-util.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-web-struts.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/activity-feed-portlet/WEB-INF/lib/spring-context-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

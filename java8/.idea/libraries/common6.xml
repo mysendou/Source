@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="common6">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/commons-httpclient.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/ep-common-third-party-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/json-path-0.9.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/slf4j-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/commons-io.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/freemarker.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/common/json-smart-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

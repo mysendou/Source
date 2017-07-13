@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib54">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/jackson-all-1.8.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/commons-collections.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/jstl-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/plugin-deployer-portlet/WEB-INF/lib/util-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

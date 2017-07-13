@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-anvato-integration-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/anvato-integration-portlet/dist/latest/src/ep-src-anvato-integration-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="common7">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/dist/latest/common/guava-12.0.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/dist/latest/common/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/dist/latest/common/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/dist/latest/common/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/dist/latest/common/spring-web.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/dist/latest/common/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/dist/latest/common/ep-common-ep-paywall-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-paywall-portlet/dist/latest/common/commons-logging.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

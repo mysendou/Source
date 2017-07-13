@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="common1">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/xbean.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/ep-common-data-import-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/poi-ooxml.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/poi.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/dom4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/poi-ooxml-schemas.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/data-import-portlet/dist/latest/common/stax.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

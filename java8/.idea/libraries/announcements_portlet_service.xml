@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="announcements-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/announcements-portlet/dist/latest/service/announcements-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

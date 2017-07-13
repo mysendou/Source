@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib56">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/content-syndication-portlet/docroot/WEB-INF/lib/eclipse-core-runtime.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/content-syndication-portlet/docroot/WEB-INF/lib/eclipselink.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

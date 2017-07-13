@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svnClientAdapter.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/antlr-runtime-3.4.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/poi-ooxml-schemas-3.9-20121203.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-apache-resolver.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-junit.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svnjavahl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ganymed.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-apache-log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/mysql.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/xmlbeans-2.3.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/poi-ooxml-3.9-20121203.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-javamail.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-jdepend.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-launcher.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ecj.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-apache-oro.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-trax.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/poi-excelant-3.9-20121203.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svnant.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/antelope.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/poi-3.9-20121203.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-bootstrap.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-apache-regexp.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svnkit.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/xmltask.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-contrib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-antlr.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-apache-bsf.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-apache-bcel.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-commons-net.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-nodeps.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/release-tools.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/trilead-ssh2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-jsch.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/ant-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

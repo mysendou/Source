@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ext-ep-wcm-portlet-6.1.10">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/ep-wcm-portlet/WEB-INF/custom/WEB-INF/lib/ext-ep-wcm-portlet-6.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

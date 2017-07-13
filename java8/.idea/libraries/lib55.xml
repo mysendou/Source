@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib55">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-hook/WEB-INF/lib/commons-httpclient.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-hook/WEB-INF/lib/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-hook/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-hook/WEB-INF/lib/commons-io.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-hook/WEB-INF/lib/commons-codec.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-hook/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/anvato-hook/WEB-INF/lib/log4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

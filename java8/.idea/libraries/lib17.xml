@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib17">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/article-velocity-util-portlet/docroot/WEB-INF/lib/endplay-hotdeploy-listener.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/article-velocity-util-portlet/docroot/WEB-INF/lib/guava-12.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

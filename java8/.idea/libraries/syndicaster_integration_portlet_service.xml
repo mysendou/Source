@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="syndicaster-integration-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/syndicaster-integration-portlet/dist/latest/service/syndicaster-integration-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

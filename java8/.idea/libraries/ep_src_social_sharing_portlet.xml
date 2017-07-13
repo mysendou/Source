@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-social-sharing-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/social-sharing-portlet/dist/latest/src/ep-src-social-sharing-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

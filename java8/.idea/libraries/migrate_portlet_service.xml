@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="migrate-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/migrate-portlet/dist/latest/service/migrate-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

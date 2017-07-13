@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib30">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/activity-feed-portlet/docroot/WEB-INF/lib/endplay-util.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/activity-feed-portlet/docroot/WEB-INF/lib/mvc-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

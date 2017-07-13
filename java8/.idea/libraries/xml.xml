@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="xml">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/xml/jaxb-xjc.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/xml/jaxb1-impl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/xml/jsr173_1.0_api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/xml/jackson-all-1.8.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/xml/activation.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/xml/jaxb-impl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/xml/jaxb-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

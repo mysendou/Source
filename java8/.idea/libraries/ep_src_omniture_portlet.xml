@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-omniture-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/omniture-portlet/dist/latest/src/ep-src-omniture-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

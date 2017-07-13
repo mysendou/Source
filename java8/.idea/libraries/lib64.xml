@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib64">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-ext-article-portlet/WEB-INF/lib/commons-collections.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-ext-article-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-ext-article-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-ext-article-portlet/WEB-INF/lib/guava-12.0.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-ext-article-portlet/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-ext-article-portlet/WEB-INF/lib/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-ext-article-portlet/WEB-INF/lib/spring-core.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-ext-article-portlet/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/data-ext-article-portlet/WEB-INF/lib/util-taglib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

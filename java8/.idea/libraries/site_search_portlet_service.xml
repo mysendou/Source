@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="site-search-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/dist/latest/service/site-search-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

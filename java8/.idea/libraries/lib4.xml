@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/commons-dbutils-1.5.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/eclipselink.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/bonecp-0.7.1.RELEASE.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/xstream.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/slf4j-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/jstl-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/jtds-1.2.8.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/staxon-1.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/migrate-portlet/WEB-INF/lib/util-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

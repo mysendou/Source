@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-third-party-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/src/ep-src-third-party-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

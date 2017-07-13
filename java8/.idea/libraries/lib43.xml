@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib43">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/custom-velocity-variables-hook/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/custom-velocity-variables-hook/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/custom-velocity-variables-hook/WEB-INF/lib/velocity.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/custom-velocity-variables-hook/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/custom-velocity-variables-hook/WEB-INF/lib/velocity-tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

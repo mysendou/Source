@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-activity-feed-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/activity-feed-portlet/dist/latest/src/ep-src-activity-feed-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

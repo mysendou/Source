@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="specification">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/src/xsd/NewsML-2.7/specification/XML-Schema-Doc-Core.zip!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/src/xsd/NewsML-2.7/specification/XML-Schema-Doc-Power.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

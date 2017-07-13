@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-email-sign-up-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/email-sign-up-portlet/dist/latest/src/ep-src-email-sign-up-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

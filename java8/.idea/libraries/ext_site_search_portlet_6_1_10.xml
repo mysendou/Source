@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ext-site-search-portlet-6.1.10">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/dist/latest/ext-site-search-portlet-6.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

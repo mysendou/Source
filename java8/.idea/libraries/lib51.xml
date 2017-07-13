@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib51">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/anvato-integration-portlet/docroot/WEB-INF/lib/httpcore-4.3.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/anvato-integration-portlet/docroot/WEB-INF/lib/httpclient-4.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-video-encode-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/video-encode-portlet/dist/latest/src/ep-src-video-encode-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

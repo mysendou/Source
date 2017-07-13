@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="content-syndication-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/content-syndication-portlet/dist/latest/service/content-syndication-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

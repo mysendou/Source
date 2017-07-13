@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mvc-portlet1">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/permission-setting-portlet/docroot/WEB-INF/lib/mvc-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

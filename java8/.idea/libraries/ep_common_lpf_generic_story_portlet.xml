@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-common-lpf-generic-story-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/lpf-generic-story-portlet/dist/latest/common/ep-common-lpf-generic-story-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

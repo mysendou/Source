@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib-ext">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/support-tomcat.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/persistence.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/mysql.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/ojdbc6.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/jta.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/portal-service.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/hsql.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/mail.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/activation.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/velocity-tools.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/jutf7.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/jms.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/jtds.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/velocity.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/patches/server/lib-ext/ccpp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

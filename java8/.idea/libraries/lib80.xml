@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib80">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/content-syndication-portlet/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/content-syndication-portlet/WEB-INF/lib/eclipselink.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/content-syndication-portlet/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/content-syndication-portlet/WEB-INF/lib/quartz.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/content-syndication-portlet/WEB-INF/lib/eclipse-core-runtime.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/content-syndication-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/content-syndication-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/content-syndication-portlet/WEB-INF/lib/util-bridges.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

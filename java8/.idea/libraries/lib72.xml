@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib72">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/commons-io.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/slf4j-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/jstl-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/json-smart-1.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/commons-httpclient.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/json-path-0.9.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/xalan.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/webapps/third-party-portlet/WEB-INF/lib/freemarker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

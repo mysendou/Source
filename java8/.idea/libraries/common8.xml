@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="common8">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-transaction.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/commons-io.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-expression.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-jdbc.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-oxm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-context-support.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/commons-codec.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/ep-common-anvato-hook.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-jms.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-aspects.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-asm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-context.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-web-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-beans.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-web-servlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-web-struts.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-core.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-web.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/commons-httpclient.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-orm.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/anvato-hook/dist/latest/common/spring-aop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

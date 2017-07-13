@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib50">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/tomcat-coyote.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/servlet-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/catalina-ant.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/jasper.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/annotations-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/jasper-el.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/catalina.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/jsp-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/tomcat-util.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/catalina-tribes.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/tomcat-i18n-ja.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/tomcat-i18n-fr.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/ecj-3.7.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/tomcat-i18n-es.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/catalina-ha.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/server/tomcat/lib/el-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

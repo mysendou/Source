@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="third-party-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/third-party-portlet/dist/latest/service/third-party-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

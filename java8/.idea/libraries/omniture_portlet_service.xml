@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="omniture-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/omniture-portlet/dist/latest/service/omniture-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

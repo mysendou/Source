@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="audit-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/audit-portlet/dist/latest/service/audit-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

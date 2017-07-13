@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="common9">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/commons-codec.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/util-bridges.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/tika-core.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/im4java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/spring-core.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/commons-net-1.4.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/ep-common-media-library-hook.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/commons-io.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/freemarker.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/commons-httpclient.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/commons-pool-1.4.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/common/util-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

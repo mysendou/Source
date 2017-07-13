@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aws-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/aws-portlet/dist/latest/service/aws-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-src-article-distribution-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/article-distribution-portlet/dist/latest/src/ep-src-article-distribution-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

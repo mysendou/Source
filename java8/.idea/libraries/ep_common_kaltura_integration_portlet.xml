@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ep-common-kaltura-integration-portlet">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/kaltura-integration-portlet/dist/latest/common/ep-common-kaltura-integration-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

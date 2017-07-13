@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="media-library-hook-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/hooks/media-library-hook/dist/latest/service/media-library-hook-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

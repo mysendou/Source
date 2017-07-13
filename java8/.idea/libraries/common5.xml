@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="common5">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/dist/latest/common/ep-common-site-search-portlet-nxs.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/dist/latest/common/ep-common-site-search-portlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

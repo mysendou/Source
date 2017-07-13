@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib42">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/docroot/WEB-INF/lib/gdata-client-1.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/docroot/WEB-INF/lib/gdata-analytics-2.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/docroot/WEB-INF/lib/gdata-core-1.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/docroot/WEB-INF/lib/omniture.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/docroot/WEB-INF/lib/google-collect-1.0-rc1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/docroot/WEB-INF/lib/gdata-analytics-meta-2.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/site-search-portlet/docroot/WEB-INF/lib/gdata-client-meta-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

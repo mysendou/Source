@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="wadl2java">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/wadl-core-1.1-SNAPSHOT.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/wadl-ant-1.1-SNAPSHOT.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/jaxb-impl-2.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/comresrcgen-1.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/localizer-1.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/jaxb-api-2.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/activation-1.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/wadl-cmdline-1.1-SNAPSHOT.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/jsr173_api-1.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/jaxb-xjc-2.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/projects/ep-service-api/tool/client/lib/wadl2java/ant-1.6.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

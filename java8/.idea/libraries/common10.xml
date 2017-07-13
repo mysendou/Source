@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="common10">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/util-java.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/log4j.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/tika-core.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/commons-collections.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/commons-math.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/guava-12.0.1.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/commons-logging.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/tika-parsers.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/jackson-all-1.8.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/commons-lang.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/ep-common-ep-data-media-portlet.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/util-taglib.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/ep-data-media-portlet/dist/latest/common/util-bridges.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

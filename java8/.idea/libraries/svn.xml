@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="svn">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/jsch.agentproxy.connector-factory-0.0.6.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/trilead-ssh2-1.0.0-build217.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/svnkit-javahl16-1.7.14.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/jsch.agentproxy.usocket-nc-0.0.6.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/jsch.agentproxy.core-0.0.6.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/jsch.agentproxy.pageant-0.0.6.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/sqljet-1.1.10.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/jsch.agentproxy.usocket-jna-0.0.6.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/platform-3.4.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/sequence-library-1.0.2.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/jna-3.4.0.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/svnkit-1.7.14.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/antlr-runtime-3.4.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/jsch.agentproxy.svnkit-trilead-ssh2-0.0.6.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/jsch.agentproxy.sshagent-0.0.6.jar!/" />
+      <root url="jar://D:/project workspace/core-dev/build-files/lib/svn/svnkit-cli-1.7.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

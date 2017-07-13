@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kaltura-integration-portlet-service">
+    <CLASSES>
+      <root url="jar://D:/project workspace/core-dev/plugins/portlets/kaltura-integration-portlet/dist/latest/service/kaltura-integration-portlet-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
