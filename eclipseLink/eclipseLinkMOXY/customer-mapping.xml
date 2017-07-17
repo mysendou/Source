@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<xml-bindings
+        xmlns="http://www.eclipse.org/eclipselink/xsds/persistence/oxm"
+        version="2.1">
+    <java-types>
+        <java-type name="com.jeff.eclipselink.module.Customer">
+            <xml-root-element name="rss"/>
+            <xml-type prop-order="name address phoneNumbers embedObjects"/>
+            <java-attributes>
+                <xml-element java-attribute="name" xml-path="personalinfo/name/text()"/>
+                <xml-element java-attribute="address" xml-path="contact-info/address"/>
+                <xml-element java-attribute="phoneNumbers" xml-path="contact-info/phone-number"/>
+                <xml-element java-attribute="embedObjects" xml-path="embedObjects/embedObject" type="com.jeff.eclipselink.module.OBFeedEntry" container-type="java.util.ArrayList"/>
+            </java-attributes>
+        </java-type>
+        <java-type name="com.jeff.eclipselink.module.PhoneNumber">
+            <xml-root-element/>
+            <java-attributes>
+                <xml-attribute java-attribute="type"/>
+                <xml-value java-attribute="value"/>
+            </java-attributes>
+        </java-type>
+        <java-type name="com.jeff.eclipselink.module.OBFeedEntry" xml-accessor-type="NONE">
+            <xml-virtual-access-methods />
+            <java-attributes>
+                <xml-element java-attribute="name" xml-path="@name" />
+            </java-attributes>
+        </java-type>
+    </java-types>
+</xml-bindings>
