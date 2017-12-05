@@ -3,6 +3,44 @@ package com.jeff.arithmetic;
 public class SortUtil {
 
     /**
+     * 快速排序
+     * @param arr
+     */
+    public static void quicklySort(int[] arr) {
+        sort(arr, 0, arr.length - 1);
+    }
+
+    private static void sort(int[] arr, int left, int right) {
+        int index = partition(arr, left, right);
+        if (left < index - 1)
+            sort(arr, left, index - 1);
+        if (index < right)
+            sort(arr, index, right);
+    }
+
+    private static int partition(int[] arr, int left, int right) {
+        int i = left, j = right;
+        int tmp;
+        int pivot = arr[(left + right) / 2];
+
+        while (i <= j) {
+            while (arr[i] < pivot)
+                i++;
+            while (arr[j] > pivot)
+                j--;
+            if (i <= j) {
+                tmp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = tmp;
+                i++;
+                j--;
+            }
+        };
+
+        return i;
+    }
+
+    /**
      * 直接插入排序
      * @param arr
      */
@@ -52,5 +90,47 @@ public class SortUtil {
             System.out.print(arr[i] + "  ");
         }
         System.out.println();
+    }
+
+    /**
+     *  The Straight Insertion Sort
+     *  时间复杂度：最好情形O(n)，平均情形O(n^2)，最差情形O(n^2)
+     *  空间复杂度：O(1)
+     * @param target
+     * @return
+     */
+    public static void insertSort(int[] target){
+
+        if(target != null && target.length != 1){   // The array size is not null and the site more than 1
+            for (int i = 1; i < target.length; i++) {
+                for (int j = i; j > 0; j--) {
+                    if(target[j]  < target[j-1]){  // Change the data
+                        int temp = target[j];
+                        target[j] = target[j-1];
+                        target[j-1] = temp;
+                    }
+                }
+            }
+        }
+    }
+
+    public static void shellSort(int[] target){
+        if(target != null && target.length != 1){
+            int gap = target.length;       // gap个大小为gap的子序列
+            do{
+                gap = gap/3 + 1;     // 不断缩小gap直至为1
+                for (int i = 0 + gap; i < target.length; i++) {   // 对每个子序列进行直接插入排序
+                    if(target[i] < target[i-gap]){
+                        int j = i - gap;
+                        int temp = target[i];         // 待插入值
+                        do{
+                            target[j + gap] = target[j];         // 后移元素
+                            j = j - gap;          // 再比较前一个元素
+                        }while(j >= 0 && target[j] > temp);  // 向前比较的终止条件
+                        target[j + gap] = temp;         // 将待插入值插入合适的位置
+                    }
+                }
+            }while(gap > 1);
+        }
     }
 }
